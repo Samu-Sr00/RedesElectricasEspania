@@ -68,7 +68,7 @@ jupyterlab==4.4.1
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.14
-keras==3.9.2
+keras
 kiwisolver==1.4.8
 libclang==18.1.1
 Markdown==3.8
@@ -142,9 +142,9 @@ stanio==0.5.1
 starlette==0.46.2
 streamlit==1.44.1
 tenacity==9.1.2
-tensorboard==2.19.0
-tensorboard-data-server==0.7.2
-tensorflow==2.19.0
+tensorboard
+tensorboard-data-server
+tensorflow
 termcolor==3.0.1
 terminado==0.18.1
 threadpoolctl==3.6.0
